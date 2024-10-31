@@ -1,0 +1,12 @@
+{
+  "name": "astri-cacti-integrator",
+  "version": "1.0.0",
+  "description": "Astri Network Discovery is an automation tool designed to enhance Cacti monitoring capabilities. This tool performs device discovery through SNMP scanning and seamlessly integrates new devices into Cacti monitoring system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
